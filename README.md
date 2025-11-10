@@ -181,8 +181,15 @@ params.json
 
 利用 PyTorch 实现的显式非线性回归神经网络，对模拟样本的统计结果进行多参数拟合。
 下图展示模型在稳态密度与存活概率预测上的拟合效果：
+
 ![稳态密度预测](figures/Figure_density_fit.png)
 ![存活概率预测](figures/Figure_survival_fit.png)
+
+**模型性能:**
+- 验证集 R² (Survival): 0.9888
+- 验证集 R² (Density): 0.9959
+- 验证集 MSE (Survival): 0.002279
+- 验证集 MSE (Density): 0.000301
 
 ## 🧮 实验参数记录 | Notes
 
