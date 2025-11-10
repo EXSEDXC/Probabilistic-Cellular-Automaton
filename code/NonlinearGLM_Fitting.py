@@ -1,3 +1,6 @@
+# Copyright 2025 EXSEDXC
+# Licensed under the Apache License, Version 2.0 (see LICENSE for details)
+
 """
 完整版本：可解释的非线性拟合（PyTorch）
 功能：

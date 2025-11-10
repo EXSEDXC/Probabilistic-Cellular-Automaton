@@ -1,3 +1,6 @@
+# Copyright 2025 EXSEDXC
+# Licensed under the Apache License, Version 2.0 (see LICENSE for details)
+
 import os
 import numpy as np
 import pandas as pd
