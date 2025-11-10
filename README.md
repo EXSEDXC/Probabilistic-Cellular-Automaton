@@ -207,10 +207,15 @@ params.json
 ## 🧠 致谢 | Acknowledgments
 
 本研究结合了概率论、数理统计与计算模拟方法，用于刻画随机系统在生灭机制下的稳态行为与相变规律。
-感谢本人室友@meteor-shower-l提供的灵感来源
+
+感谢本人室友[@meteor-shower-l](https://github.com/meteor-shower-l)提供的灵感来源
+
 感谢Gemini提供的实现思路
+
 感谢ChatGPT提供的技术指导
+
 感谢豆包提供的复杂LateX公式校正
+
 感谢腾讯元宝提供的审查与修改建议
 
 ## 📚 最后
