@@ -1,0 +1,9 @@
+{
+  "P_birth": 0.4,
+  "P_death_base": 0.6,
+  "alpha": 4.0,
+  "N_birth_max": 3,
+  "N_death_min": 5,
+  "T_MAX_STEPS":100,
+  "note": "快速灭绝"
+}

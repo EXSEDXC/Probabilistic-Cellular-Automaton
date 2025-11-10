@@ -1,0 +1,9 @@
+{
+  "P_birth": 0.7,
+  "P_death_base": 0.3,
+  "alpha": 4.0,
+  "N_birth_max": 3,
+  "N_death_min": 5,
+  "T_MAX_STEPS":200,
+  "note": "p=0.95发生反常行为，收敛值降低，推测是初始高密度惩罚概率导致系统进入灭绝态"
+}

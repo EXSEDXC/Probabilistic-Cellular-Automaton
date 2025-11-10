@@ -1,0 +1,9 @@
+{
+  "P_birth": 0.6,
+  "P_death_base": 0.4,
+  "alpha": 2.0,
+  "N_birth_max": 4,
+  "N_death_min": 4,
+  "T_MAX_STEPS":200,
+  "note": "中等稳定态（0.24）"
+}

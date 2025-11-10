@@ -1,0 +1,9 @@
+{
+  "P_birth": 0.5,
+  "P_death_base": 0.5,
+  "alpha": 0.0,
+  "N_birth_max": 3,
+  "N_death_min": 5,
+  "T_MAX_STEPS":100,
+  "note": "收敛到0.76，均存活"
+}

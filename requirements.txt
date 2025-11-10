@@ -1,0 +1,25 @@
+# ============================
+# Probabilistic-Cellular-Automaton
+# Environment requirements for Python 3.13 + CUDA 12.8
+# ============================
+
+# --- Core Deep Learning Stack ---
+torch==2.9.0+cu128         # PyTorch main framework (CUDA 12.8 build)
+torchvision>=0.20          # PyTorch vision utilities for compatibility
+
+# --- Scientific Computing ---
+numpy>=2.1                 # Array and numerical computation
+pandas>=2.2                # Data handling and analysis
+scipy>=1.14                # Statistical, signal, and convolution tools
+scikit-learn>=1.6          # Data preprocessing, metrics, and regression evaluation
+
+# --- Visualization ---
+matplotlib>=3.9            # Core plotting and animation
+seaborn>=0.13              # Statistical visualization and color themes
+
+# --- Utilities ---
+tqdm>=4.66                 # Progress bar for training and simulation
+
+# --- Notes ---
+# All other modules (os, json, math, argparse, pathlib, multiprocessing, functools, time, warnings)
+# are standard Python libraries and do not require installation.
