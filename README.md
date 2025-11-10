@@ -223,3 +223,20 @@ params.json
 
 © 2025 作者：[EXSEDXC](https://github.com/EXSEDXC)  
 仅供学术研究与教学用途。
+
+---
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**.  
+You may use, distribute, and modify this project under the terms of the license,  
+provided that proper credit is given to the original author and that the license notice is included in all copies or derivative works.
+
+> © 2025 [EXSEDXC](https://github.com/EXSEDXC)  
+> Licensed under the Apache License, Version 2.0 (the "License");  
+> you may not use this file except in compliance with the License.  
+> You may obtain a copy of the License at:  
+> [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,  
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
+See the License for the specific language governing permissions and limitations under the License.
